@@ -1,5 +1,3 @@
-// ESCREVER NO SHELL:
-// g++ main_cidadesbrasil.cpp cidadesbrasil.cpp -o cidadesbrasil.exe
 
 #include "cidades.h"
 #include <iostream>
